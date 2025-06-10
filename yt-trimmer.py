@@ -13,7 +13,7 @@ import vlc
 class App(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("Visual YouTube Trimmer (v10 - Guided Workflow)")
+        self.title("YouTube Trimmer (v1)")
         self.geometry("800x800")
         ctk.set_appearance_mode("Dark")
         self.yt_info = None; self.video_duration = 0; self.is_seeking = False
