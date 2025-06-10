@@ -7,6 +7,10 @@ Ever wanted to clip a specific part of a YouTube video without downloading the w
 This sleek, modern desktop app lets you visually trim any YouTube video or audio with an intuitive, interactive player. Just drag the sliders to your desired start and end points, choose your quality, and get a perfectly trimmed clip in seconds.
 
 
+## SCREENSHOTS
+![image](https://github.com/user-attachments/assets/7de8037a-4071-4196-a698-766990fdc5e0)
+![image](https://github.com/user-attachments/assets/fcad2879-4247-42bb-b347-c31fb5c69b7c)
+
 
 
 ---
