@@ -1,6 +1,8 @@
 <div style="text-align:center">
+    
 # ✂️YoutubeTrimmer v1
-    </div>
+    
+</div>
 
 
 Ever wanted to clip a specific part of a YouTube video without downloading the whole thing and using complex editors like Premiere Pro or After Effects? **YouTubeTrimmer** is the tool you've been waiting for!
